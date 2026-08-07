@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: sometimes i write article-ish stuff too
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+you have landed in my articles page  
+bewarned some of it is nsfw and i wont mark it as such  
+TW: suicide, self harm
